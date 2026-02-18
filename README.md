@@ -7,4 +7,4 @@ Organización de Datos de la catedra Rodriguez
 * Requisitos para pseudo-promocionar (Creo que se da un oral del TP2):
 	- Aprobar el 1er parcial en primera instancia con creo que 7 o más.
 	- Los TPs aprobados con 7 o más creo
-* También se puede dar el final aunque hayas pseudo-promocionado.
+* *¡Solo para aquellos que promocionaron!*: También se puede dar el final en caso de no querer dar el oral.
