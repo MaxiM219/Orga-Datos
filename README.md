@@ -1,5 +1,5 @@
 # Orga-Datos
-Organización de Datos de la catedra Rodriguez
+Organización de Datos de la catedra Rodriguez (2C 2025)
 
 ## Cursada
 * 1 Parcial con 2 instancias de recuperatorio y final u Oral del TP2 (si se promociona).
